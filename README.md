@@ -1,3 +1,3 @@
-# capstone
-group capstone project
+# CAPSTONE - AUTOMATED ASL TRANSLATOR USNING DEEP LEARNING
+
  
